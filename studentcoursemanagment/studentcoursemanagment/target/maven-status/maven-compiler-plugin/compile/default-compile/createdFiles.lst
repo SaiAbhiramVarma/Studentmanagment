@@ -1,0 +1,5 @@
+com\example\studentcoursemanagment\CourseController.class
+com\example\studentcoursemanagment\StudentcoursemanagmentApplication.class
+com\example\studentcoursemanagment\Course.class
+com\example\studentcoursemanagment\CourseService.class
+com\example\studentcoursemanagment\CourseRepository.class
